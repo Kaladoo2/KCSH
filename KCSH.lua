@@ -1,5 +1,3 @@
--- loadstring(game:HttpGet("https://pastebin.com/raw/N4MUG2Rn"))()
-
 local pplayer = game.Players.LocalPlayer
 local wplayer = workspace:WaitForChild(pplayer.Name)
 local players = game:GetService("Players")
@@ -7,7 +5,7 @@ local players = game:GetService("Players")
 local a = Instance.new("ScreenGui")
 a.ResetOnSpawn = true
 a.Parent = pplayer.PlayerGui
-a.Name = "KSCHv1.2"
+a.Name = "KSCH"
 
 task.wait(1)
 local function maketext(parent, text, size, name)
