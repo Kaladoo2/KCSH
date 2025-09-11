@@ -6,4 +6,4 @@ loadstring(game:HttpGet(""https://raw.githubusercontent.com/Kaladoo2/KCSH/refs/h
 
 When you die it doesnt come back so you would need to re run it, no idea why but when I set reset on spawn to true it justs breaks when I try to use the same GUI.
 
-Have fun!
+**Have fun!**
