@@ -1,3 +1,5 @@
+-- loadstring(game:HttpGet("https://pastebin.com/raw/N4MUG2Rn"))()
+ 
 local pplayer = game.Players.LocalPlayer
 local wplayer = workspace:WaitForChild(pplayer.Name)
 local players = game:GetService("Players")
