@@ -1,4 +1,4 @@
--- loadstring(game:HttpGet("https://pastebin.com/raw/N4MUG2Rn"))()
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaladoo2/KCSH/refs/heads/main/source.lua"))()
  
 local pplayer = game.Players.LocalPlayer
 local wplayer = workspace:WaitForChild(pplayer.Name)
